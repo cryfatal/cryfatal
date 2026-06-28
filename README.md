@@ -1,15 +1,7 @@
-## <p align="center">
-  <img src="butterfly.gif" alt="Butterfly" width="500">
+<p align="center">
+  <img src="butterfly.gif" width="500">
 </p>
 <p align="center">
-  <img src="images/butterfly.gif" alt="Butterfly" width="500">
+  <img src="butterfly.gif" width="500">
 </p>
-<img src="butterfly.gif" alt="Butterfly">
-
-<p align="center">
-  <img src="butterfly.gif" alt="Butterfly" width="500">
-</p>
-<p align="center">
-  <img src="images/butterfly.gif" alt="Butterfly" width="500">
-</p>
-<img src="butterfly.gif" alt="Butterfly">
+<img src="tải xuống (21).gif" width="500">
