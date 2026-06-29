@@ -1,4 +1,4 @@
-# 𓏼̣ ̣   ㅤꘓꘓㅤ࣪ㅤ࣭ㅤ
+# 𓏼̣ ̣   ㅤㅤ࣪ㅤ࣭ㅤ
  <p align="center">
   <img src="images/tải xuống (26).png" width="220" alt="">
 </p>
