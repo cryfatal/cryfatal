@@ -1,3 +1,3 @@
 ݁ ݁
-![Fuyu](fuyu.png)
+<img src="fuyu.png" alt="Fuyu">
 
