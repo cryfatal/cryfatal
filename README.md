@@ -1,4 +1,1 @@
 ݁ ݁
-
-<img src="hii.jpg" alt="Venti">
-
