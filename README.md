@@ -1,7 +1,7 @@
  ݁
 Բ૦ՆՆ૦ω ცค८қ 
 
-<img src="lol.png" alt="lol">
+
 
     
 
