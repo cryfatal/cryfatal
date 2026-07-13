@@ -1,12 +1,8 @@
  ⊹ ࣪ ˖ㅤ
 
-<img src="bj.png" alt="bj">
+![Mizisua](assets/mizisua.gif)
 
-
-
-
-
-
+![Mizisua](mizisua.gif)
        
 
 
