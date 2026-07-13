@@ -1,9 +1,6 @@
  ⊹ ࣪ ˖ㅤ
 
-![Mizisua](assets/mizisua.gif)
-
-![Mizisua](mizisua.gif)
-       
+![MIZISUA](assets/MIZISUA.gif)
 
 
 
